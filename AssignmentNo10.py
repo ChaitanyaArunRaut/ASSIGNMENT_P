@@ -32,9 +32,7 @@ def ODD(No):
             return
         else:
             print("ODD No is :",i)
-        
-
-       
+                           
 def main():
     Value = None
     Ret = 0
